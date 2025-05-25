@@ -1,0 +1,35 @@
+# Build output
+**/build/
+
+# Gradle
+.gradle/
+local.properties
+
+# Crashlytics
+com_crashlytics_export_strings.xml
+
+# Signing
+.signing/
+
+# IDE
+.idea/*
+*.iml
+!.idea/codeStyles/
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/vcs.xml
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# APKs and artifacts
+captures/
+*.apk
+*.ap_
+*.aab
