@@ -1,10 +1,10 @@
 # Dice Roller 🎲
 
-A simple app that rolls a dice when you tap the button. Made with Jetpack Compose.
+A simple Android app that rolls a dice each time you tap the button. Built using Jetpack Compose.
 
-## How to run it
+## 🚀 How to Run
 
-- Clone the repo  
-- Open in Android Studio  
-- Run on emulator or device  
-- Tap the button and see what you get!
+1. Clone the repository  
+2. Open the project in Android Studio  
+3. Run it on an emulator or physical device  
+4. Tap the button and see what you get
